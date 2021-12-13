@@ -1,7 +1,5 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=alyssonaldrin&show_icons=true&theme=radical">
 
-### Faça um breve apresentação sobre você
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=alyssonaldrin&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p align="left"> 
