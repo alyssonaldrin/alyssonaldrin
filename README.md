@@ -7,10 +7,10 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JavaScript, C#, Java, Python </strong>
+  Linguagens: <strong>JavaScript, C#, Java, Python </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React, ASP.NET, Express</strong>
+  Ferramentas: <strong>React, ASP.NET, Express</strong>
 </p>
 <hr>
