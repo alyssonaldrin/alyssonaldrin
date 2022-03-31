@@ -7,10 +7,10 @@
 </p>
 
 <p align="left">
-  :alien: Linguagens: <strong>JavaScript, C#, Java, Python </strong>
+  :alien: Linguagens: <strong>JavaScript, C#, Java, TypeScript </strong>
 </p>
 
 <p align="left">
-  :skull: Ferramentas: <strong>React, ASP.NET, Express</strong>
+  :skull: Ferramentas: <strong>React, ASP.NET, Next.js</strong>
 </p>
 <hr>
